@@ -1,0 +1,9 @@
+                                                         ,--.
+${AnsiColor.BLACK},------.  ,--.      ,--. ,--. ,--.                      /  /${AnsiColor.MAGENTA}    ,---.    ,---.   ,------.
+${AnsiColor.BLACK}|  .--. ' |  ,---.  `--' |  | `--'  ,---.   ,---.      /  / ${AnsiColor.MAGENTA}   /  O  \  '   .-'  |  .--. '
+${AnsiColor.BLACK}|  '--' | |  .-.  | ,--. |  | ,--. | .-. | (  .-'     /  /  ${AnsiColor.MAGENTA}  |  .-.  | `.  `-.  |  '--' |
+${AnsiColor.BLACK}|  | --'  |  | |  | |  | |  | |  | | '-' ' .-'  `)   /  /   ${AnsiColor.MAGENTA}  |  | |  | .-'    | |  | --'
+${AnsiColor.BLACK}`--'      `--' `--' `--' `--' `--' |  |-'  `----'   /  /    ${AnsiColor.MAGENTA}  `--' `--' `-----'  `--'
+                                   `--'            `--'
+
+${AnsiColor.BRIGHT_MAGENTA} :: App: ${application.title} ${application.formatted-version} :: ${AnsiColor.BLACK}
